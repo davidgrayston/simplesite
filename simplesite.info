@@ -30,7 +30,6 @@ dependencies[] = rdf
 dependencies[] = context
 dependencies[] = ctools
 dependencies[] = date
-dependencies[] = delta
 dependencies[] = diff
 dependencies[] = entity
 dependencies[] = entitycache
