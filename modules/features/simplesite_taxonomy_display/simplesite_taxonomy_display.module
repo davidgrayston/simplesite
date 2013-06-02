@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the SimpleSite Taxonomy Display feature.
+ */
+
+include_once 'simplesite_taxonomy_display.features.inc';
