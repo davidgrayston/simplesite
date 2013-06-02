@@ -95,6 +95,9 @@ projects[entity_autocomplete][version] = 1.0-beta2
 projects[views_arguments_extras][subdir] = contrib
 projects[views_arguments_extras][version] = 1.0-beta1
 
+projects[taxonomy_display][subdir] = contrib
+projects[taxonomy_display][version] = 1.1
+
 projects[admin_menu][subdir] = contrib
 projects[admin_menu][version] = 3.0-rc4
 

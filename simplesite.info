@@ -44,6 +44,7 @@ dependencies[] = pathauto
 dependencies[] = node_reference
 dependencies[] = node_reference_view_formatter
 dependencies[] = strongarm
+dependencies[] = taxonomy_display
 dependencies[] = token
 dependencies[] = views
 dependencies[] = views_arguments_extras
