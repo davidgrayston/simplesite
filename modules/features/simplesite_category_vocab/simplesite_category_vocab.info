@@ -3,6 +3,7 @@ core = 7.x
 package = SimpleSite
 php = 5.2.4
 dependencies[] = features
+dependencies[] = simplesite_taxonomy_display
 dependencies[] = taxonomy
 dependencies[] = taxonomy_display
 features[ctools][] = taxonomy_display:taxonomy_display:1
