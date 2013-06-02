@@ -27,6 +27,7 @@ dependencies[] = rdf
 
 
 ; Contrib
+dependencies[] = admin_menu
 dependencies[] = context
 dependencies[] = ctools
 dependencies[] = date

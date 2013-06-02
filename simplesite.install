@@ -12,6 +12,14 @@ function simplesite_install() {
   if (module_exists('wysiwyg')) {
     simplesite_set_wysiwyg_settings();
   }
+  
+  // Disable overlay and toolbar.
+  module_disable(
+    array(
+      'overlay',
+      'toolbar',
+    )
+  );
 }
 
 /**

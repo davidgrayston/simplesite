@@ -95,8 +95,8 @@ projects[entity_autocomplete][version] = 1.0-beta2
 projects[views_arguments_extras][subdir] = contrib
 projects[views_arguments_extras][version] = 1.0-beta1
 
-projects[feeds][subdir] = contrib
-projects[feeds][version] = 2.0-alpha7
+projects[admin_menu][subdir] = contrib
+projects[admin_menu][version] = 3.0-rc4
 
 libraries[ckeditor][download][type] = get
 libraries[ckeditor][download][url] = http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.5/ckeditor_3.5.tar.gz
