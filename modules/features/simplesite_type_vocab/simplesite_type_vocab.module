@@ -1,5 +1,7 @@
 <?php
 /**
  * @file
- * Drupal needs this blank file.
+ * Code for the SimpleSite Type Vocab feature.
  */
+
+include_once 'simplesite_type_vocab.features.inc';
