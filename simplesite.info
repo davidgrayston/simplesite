@@ -54,6 +54,8 @@ dependencies[] = wysiwyg
 dependencies[] = xmlsitemap
 dependencies[] = video_embed_field
 dependencies[] = libraries
+dependencies[] = media
+dependencies[] = media_youtube
 
 
 ; SimpleSite
