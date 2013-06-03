@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the SimpleSite Category Vocab feature.
- */
-
-include_once 'simplesite_category_vocab.features.inc';
