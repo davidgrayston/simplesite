@@ -9,7 +9,7 @@
  */
 function simplesite_article_type_taxonomy_default_vocabularies() {
   return array(
-    'type' => array(
+    'article_type' => array(
       'name' => 'Article Type',
       'machine_name' => 'article_type',
       'description' => '',
