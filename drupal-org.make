@@ -107,5 +107,8 @@ projects[media][version] = 1.3
 projects[media_youtube][subdir] = contrib
 projects[media_youtube][version] = 2.0-rc3
 
+projects[file_entity][subdir] = contrib
+projects[file_entity][version] = 2.0-unstable7
+
 libraries[ckeditor][download][type] = get
 libraries[ckeditor][download][url] = http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.5/ckeditor_3.5.tar.gz

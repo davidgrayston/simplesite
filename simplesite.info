@@ -54,6 +54,7 @@ dependencies[] = wysiwyg
 dependencies[] = xmlsitemap
 dependencies[] = video_embed_field
 dependencies[] = libraries
+dependencies[] = file_entity
 dependencies[] = media
 dependencies[] = media_youtube
 
@@ -63,6 +64,7 @@ dependencies[] = simplesite_article
 dependencies[] = simplesite_category
 dependencies[] = simplesite_article_type
 dependencies[] = simplesite_taxonomy_display
+dependencies[] = simplesite_wysiwyg
 
 libraries[ckeditor][download][type] = get
 libraries[ckeditor][download][url] = http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.5/ckeditor_3.5.tar.gz

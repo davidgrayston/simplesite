@@ -6,6 +6,7 @@ php = 5.2.4
 dependencies[] = ctools
 dependencies[] = features
 dependencies[] = image
+dependencies[] = media
 dependencies[] = simplesite_article_type
 dependencies[] = simplesite_category
 dependencies[] = strongarm
