@@ -58,8 +58,8 @@ dependencies[] = libraries
 
 ; SimpleSite
 dependencies[] = simplesite_article
-dependencies[] = simplesite_category_vocab
-dependencies[] = simplesite_type_vocab
+dependencies[] = simplesite_category
+dependencies[] = simplesite_article_type
 dependencies[] = simplesite_taxonomy_display
 
 libraries[ckeditor][download][type] = get
