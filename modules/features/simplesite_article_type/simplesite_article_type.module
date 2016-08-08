@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the SimpleSite Article Type feature.
- */
-
-include_once 'simplesite_article_type.features.inc';
