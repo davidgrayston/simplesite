@@ -19,9 +19,6 @@
             "docroot/core": [
                 "drupal/core"
             ],
-            "modules/contrib/{$name}": [
-                "type:drupal-module"
-            ],
             "themes/{$name}": [
                 "type:drupal-theme"
             ]
