@@ -1,6 +1,6 @@
 name: SimpleSite
 type: profile
-description: 'Simple Site installation profile.'
+description: 'SimpleSite installation profile.'
 core: 8.x
 
 distribution:
