@@ -1,4 +1,0 @@
-; $Id $
-name = SimpleSite
-description = Install SimpleSite.
-core = 8.x
