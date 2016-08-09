@@ -1,5 +1,5 @@
 {
-    "name": "drupal/simplesite",
+    "name": "davidgrayston/simplesite",
     "description": "SimpleSite installation profile.",
     "type": "drupal-profile",
     "license": "GPL-2.0+",
